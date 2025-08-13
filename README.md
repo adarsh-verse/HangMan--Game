@@ -1,4 +1,2 @@
-# HangMan--Game
-A simple Hangman Game built using html , css and javascript.
-
-link-> https://adarsh-verse.github.io/HangMan--Game/
+# HangMan--Game (Mobile Version)
+A simple Hangman Game previously built using html , css and javascript now on mobile using React Native.
